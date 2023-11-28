@@ -1,0 +1,25 @@
+canvas {
+            
+    width: 100%;
+    height: 100%;
+    background-image: url('hacker.jpg');  
+    background-size: cover;
+    }
+    .container {
+        position: absolute;
+        /*max-width: 800px; /* Maximum width */
+        /*margin: 0 auto; /* Center it */
+      }
+      .container .content {
+        position: absolute; /* Position the background text */
+        top: 0; /* At the bottom. Use top:0 to append it to the top */
+        /*text-align: center;  /* to position text centerally
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0); /* Black background with 0.5 opacity */
+        color: #f1f1f1; /* Grey text */
+        width: 100%; /* Full width */
+        padding: 20px; /* Some padding */
+      }
+h1{
+    font-size: 40px  
+      }
